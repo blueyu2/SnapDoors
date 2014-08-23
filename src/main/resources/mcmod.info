@@ -1,0 +1,16 @@
+[
+{
+  "modid": "snapdoors",
+  "name": "SnapDoors",
+  "description": "Adds new doors from the 1.8 snapshots.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["blueyu2"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
